@@ -2,7 +2,7 @@
 
 Gestiona los proyectos del catálogo.
 
-Son 110 proyectos, divididos según año, categoría e institución. La estructura de los proyectos varía según el año.
+Son 110 proyectos, divididos según año, eje e institución. La estructura de los proyectos varía según el año.
 
 **url base**: https://uncinnova.unc.edu.ar/wp-json/wp/v2
 
