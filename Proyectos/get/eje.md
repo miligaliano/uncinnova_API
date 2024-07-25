@@ -66,7 +66,7 @@ Valores: *id, title, content*
 
 ### Ejemplos de contenido
 
-#### Para mostrar proyectos de la categoría Bioeconomía
+#### Muestra proyectos del eje Bioeconomía
 
 `/posts?categories=3&_fields=id,title,content`
 
@@ -83,7 +83,7 @@ Valores: *id, title, content*
 ...
 ```
 
-#### Para mostrar proyectos de la categoría Transformación Tecnológica
+#### Muestra proyectos del eje Transformación Tecnológica
 
 `/posts?categories=6&_fields=id,title,content`
 
