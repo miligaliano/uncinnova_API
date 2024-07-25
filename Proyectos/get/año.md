@@ -34,7 +34,7 @@ La estructura de los proyectos varía según el año.
 
 **URL:** `/posts?tags={tag}`
 
-**Method:** `GET`
+**Metodo:** `GET`
 
 **Parámetros:** 
 
