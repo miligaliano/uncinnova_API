@@ -88,7 +88,7 @@ Valores: *id, title, content*
 
 ### Ejemplos de contenido
 
-#### Para mostrar proyectos de la institución Facultad de Ciencias Exactas, Físicas y Naturales
+#### Muestra proyectos de la Facultad de Ciencias Exactas, Físicas y Naturales
 
 `/posts?tags=42&_fields=id,title,content`
 
@@ -104,7 +104,7 @@ Valores: *id, title, content*
 ...
 ```
 
-#### Para mostrar proyectos de la institución Hemoderivados
+#### Muestra proyectos de Hemoderivados
 
 `/posts?tags=51&_fields=id,title,content`
 
