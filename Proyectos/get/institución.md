@@ -2,7 +2,7 @@
 
 **URL:** `/posts?tags={tag}`
 
-**Method:** `GET`
+**Metodo:** `GET`
 
 **Parámetros:** 
 
