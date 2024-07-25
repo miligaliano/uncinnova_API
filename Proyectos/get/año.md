@@ -60,7 +60,7 @@ Valores: *id, title, content*
 
 ### Ejemplos de contenido
 
-#### Para mostrar proyectos del año 2023
+#### Muestra proyectos del año 2023
 
 `/posts?tags=62&_fields=id,title,content`
 
@@ -76,7 +76,7 @@ Valores: *id, title, content*
 ...
 ```
 
-#### Para mostrar proyectos del año 2024
+#### Muestra proyectos del año 2024
 
 `/posts?tags=61&_fields=id,title,content`
 
