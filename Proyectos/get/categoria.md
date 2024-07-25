@@ -42,7 +42,7 @@ La estructura de los proyectos varía según el año.
     
 Establece los proyectos de determinada categoria a mostrar
 
-*Categorías:*
+*Categorías (ejes del Plan Argentina 2030):*
 
 **3**: Bioeconomia
 
