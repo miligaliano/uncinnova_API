@@ -2,7 +2,7 @@
 
 **URL:** `/posts?categories={eje}`
 
-**Method:** `GET`
+**Metodo:** `GET`
 
 **Parámetros:** 
 
