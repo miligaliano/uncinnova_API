@@ -1,37 +1,5 @@
 # Muestra Proyectos por eje
 
-La estructura de los proyectos varía según el año.
-
-*Estructura proyectos 2023:*
-
-        title: Titulo
-        
-        content:
-          Texto informativo,
-          Imagenes y/o video,
-          Equipo,
-          Instituciones involucradas,
-          Contacto (mail),
-          Formulario de contacto,
-          Descubrí otros proyectos.
-        
-*Estructura proyectos 2024:*
-
-        title: Titulo
-        
-        content: 
-          Título, 
-          Tags, 
-          Boton contacto, 
-          Imagen principal, 
-          5 palabras clave, 
-          Texto informativo, 
-          Imagenes y/o video, 
-          Equipo, 
-          Instituciones involucradas, 
-          Descubrí otros proyectos, 
-          Botón volver al inicio.  
-
 **URL:** `/posts?categories={categorie}`
 
 **Method:** `GET`
