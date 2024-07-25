@@ -42,7 +42,7 @@ La estructura de los proyectos varía según el año.
     
 Establece los proyectos de determinada institución a mostrar
 
-Instituciones:
+*Instituciones:*
 
 **42**: Facultad de Ciencias Exactas, Físicas y Naturales
          
