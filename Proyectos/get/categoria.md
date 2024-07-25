@@ -2,7 +2,7 @@
 
 **URL:** `/posts?categories={categorie}`
 
-**Method:** `GET`
+**Metodo:** `GET`
 
 **Parámetros:** 
 
