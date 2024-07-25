@@ -1,4 +1,4 @@
-# Muestra Proyectos por año
+# Muestra Proyectos por categoría
 
 La estructura de los proyectos varía según el año.
 
