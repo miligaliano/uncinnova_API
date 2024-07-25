@@ -1,4 +1,6 @@
-# Muestra Proyectos por eje
+# Muestra Proyectos por categoría
+
+Categorías definidas: Investigación y/o desarrollo aplicable y Producto, proceso y/o servicio innovador
 
 **URL:** `/posts?categories={categorie}`
 
