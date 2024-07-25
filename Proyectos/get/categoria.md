@@ -68,7 +68,7 @@ Valores: *id, title, content*
 
 #### Para mostrar proyectos de la categoría Bioeconomía
 
-/posts?categories=3&_fields=id,title,content
+`/posts?categories=3&_fields=id,title,content`
 
 ```json
 {
@@ -85,7 +85,7 @@ Valores: *id, title, content*
 
 #### Para mostrar proyectos de la categoría Transformación Tecnológica
 
-/posts?categories=6&_fields=id,title,content
+`/posts?categories=6&_fields=id,title,content`
 
 ```json
 {
