@@ -32,17 +32,17 @@ La estructura de los proyectos varía según el año.
           Descubrí otros proyectos, 
           Botón volver al inicio.  
 
-**URL:** `/posts?categories={categorie}`
+**URL:** `/posts?categories={eje}`
 
 **Method:** `GET`
 
 **Parámetros:** 
 
-`categorie`
+`eje`
     
 Establece los proyectos de determinada categoria a mostrar
 
-*Categorías (ejes del Plan Argentina 2030):*
+*Ejes (correspondientes al Plan Argentina 2030):*
 
 **3**: Bioeconomia
 
