@@ -1,6 +1,6 @@
 # Muestra Proyectos por año
 
-Get the details of the currently Authenticated User along with basic subscription information.
+La estructura de los proyectos varía según el año.
 
 *Estructura proyectos 2023:*
 
