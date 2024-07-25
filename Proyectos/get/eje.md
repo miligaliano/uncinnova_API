@@ -1,4 +1,4 @@
-# Muestra Proyectos por categoría
+# Muestra Proyectos por eje
 
 La estructura de los proyectos varía según el año.
 
@@ -40,7 +40,7 @@ La estructura de los proyectos varía según el año.
 
 `eje`
     
-Establece los proyectos de determinada categoria a mostrar
+Establece los proyectos de determinado eje a mostrar
 
 *Ejes (correspondientes al Plan Argentina 2030):*
 
